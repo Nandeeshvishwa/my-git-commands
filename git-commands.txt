@@ -62,3 +62,6 @@ git stash index.html
 git stash pop 
 - to unarchieve a archieved file that is in staging branch of local directory
 
+git commit --amend
+- to change the commit message of the files which are in local repository
+
