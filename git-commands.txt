@@ -80,3 +80,12 @@ git reset 32fg54hy
 git log --oneline
 - this command will show pervious commit history along with commit hash
 
+git commit -am 'your message'
+- to directly add and commit a file to local repository
+
+
+
+
+
+
+
