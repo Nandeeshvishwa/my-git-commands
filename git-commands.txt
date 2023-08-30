@@ -74,3 +74,9 @@ git cherry-pick 32fg54hy
 git log
 - to check the details of all previous actions in git
 
+git reset 32fg54hy
+- to go back to the time of previous commit with commit hash 32fg54hy
+
+git log --oneline
+- this command will show pervious commit history along with commit hash
+
