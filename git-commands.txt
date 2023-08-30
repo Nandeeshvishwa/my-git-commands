@@ -65,3 +65,12 @@ git stash pop
 git commit --amend
 - to change the commit message of the files which are in local repository
 
+git reflog
+- to find the details of previous or present files in local repositories
+
+git cherry-pick 32fg54hy
+- to add a file with commit hash 32fg54hy which is present in another branch to the present branch
+
+git log
+- to check the details of all previous actions in git
+
