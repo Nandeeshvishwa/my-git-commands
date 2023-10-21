@@ -83,7 +83,8 @@ git log --oneline
 git commit -am 'your message'
 - to directly add and commit a file to local repository
 
-
+sudo lsof -i -n
+- to know whic service is running in which port number
 
 
 
